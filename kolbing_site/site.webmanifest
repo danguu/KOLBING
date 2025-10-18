@@ -1,0 +1,28 @@
+{
+  "name": "Kolbing",
+  "short_name": "Kolbing",
+  "lang": "es",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3282f6",
+  "description": "Kolbing impulsa la transformación digital con consultoría, automatización y experiencias innovadoras.",
+  "icons": [
+    {
+      "src": "/assets/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
